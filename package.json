@@ -1,0 +1,28 @@
+{
+  "name": "react-native-textview-custom",
+  "version": "1.0.8",
+  "description": "A custom TextField component for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautam Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.2"
+    },
+  "keywords": [
+    "textfield",
+    "react-native",
+    "custom",
+    "ui-component",
+    "react",
+    "input"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-native-textview-custom.git"
+  },
+  "homepage": "https://github.com/yourusername/react-native-textview-custom#readme"
+}
